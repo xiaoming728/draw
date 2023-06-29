@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T02:58:52.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TuBNB9Gp7oZcausEYwYi" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T06:49:54.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4Das4DiKELoHoqINdaHk" version="21.5.0" type="github">
   <diagram name="第 1 页" id="-yJ7dZR6ZEG5t212Vwaz">
     <mxGraphModel dx="2261" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F6FA" math="0" shadow="0">
       <root>
@@ -89,13 +89,13 @@
         <mxCell id="_0orbBe_WSjpQMd9QpF7-21" value="Netty Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#1D3557;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="511" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-1" value="&lt;h1&gt;心跳机制&lt;/h1&gt;&lt;p&gt;前后端心跳时间为5s&lt;/p&gt;&lt;p&gt;前端检测断连一直重新连接上线&lt;/p&gt;&lt;p&gt;后端检测断连清除用户信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;glass=0;" vertex="1" parent="1">
+        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-1" value="&lt;h1&gt;心跳机制&lt;/h1&gt;&lt;p&gt;前后端心跳时间为5s&lt;/p&gt;&lt;p&gt;前端检测断连一直重新连接上线&lt;/p&gt;&lt;p&gt;后端检测断连清除用户信息&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="170" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-3" value="&lt;h1&gt;Redis广播&lt;/h1&gt;&lt;p&gt;用户连接通过redis广播转发netty消息到对应用户的netty服务&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-3" value="&lt;h1&gt;Redis广播&lt;/h1&gt;&lt;p&gt;用户连接通过redis广播转发netty消息到对应用户的netty服务&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="644" width="190" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-4" value="&lt;h1&gt;Zookeeper&lt;/h1&gt;&lt;p&gt;Netty服务启动时注册到zookeeper,Gateway通过zookeeper转发ws连接&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0EbLaSeZ9V6MjkvX8Anf-4" value="&lt;h1&gt;Zookeeper&lt;/h1&gt;&lt;p&gt;Netty服务启动时注册到zookeeper,Gateway通过zookeeper转发ws连接&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
