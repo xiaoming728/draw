@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T02:17:13.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="L4uQpmMs2u1Pvd1sKZhl" version="23.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-29T02:19:28.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="9WMTzVvllCKslrrs6DEz" version="23.1.7" type="github" pages="2">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="流程图">
     <mxGraphModel dx="1434" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -504,7 +504,7 @@
         </mxCell>
         <mxCell id="F9XixA6PHF0n-Cnk4VVH-11" value="数据支撑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="F9XixA6PHF0n-Cnk4VVH-10">
           <mxGeometry x="0.2934" y="-2" relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
+            <mxPoint x="-688" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F9XixA6PHF0n-Cnk4VVH-12" value="佣金管理" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
@@ -520,6 +520,17 @@
         </mxCell>
         <mxCell id="F9XixA6PHF0n-Cnk4VVH-16" value="药品" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="760" y="443" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="4xCB6BG1yG3UuAQZe35u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#12aab5;strokeWidth=3;" edge="1" parent="1" source="4xCB6BG1yG3UuAQZe35u-1" target="II0WEQQAT78yQ2GJaOtq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xCB6BG1yG3UuAQZe35u-3" value="数据容错" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="4xCB6BG1yG3UuAQZe35u-2">
+          <mxGeometry x="0.3073" y="1" relative="1" as="geometry">
+            <mxPoint x="-691" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xCB6BG1yG3UuAQZe35u-1" value="合并药店" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#69D100;strokeColor=#69D100;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1020" width="120" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
