@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T03:59:11.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="CA20Los9cLxmVsalqcsW" version="23.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-29T05:37:11.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="KEm2yF9uZDBtIV-EslGP" version="23.1.8" type="github" pages="4">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="流程图">
     <mxGraphModel dx="1434" dy="855" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -230,12 +230,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_8xy3tmtlxBZm1Y617Hw" name="导入流程图">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4xCB6BG1yG3UuAQZe35u-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="170" width="460" height="170" as="geometry" />
+          <mxGeometry x="1200" y="260" width="460" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="F9XixA6PHF0n-Cnk4VVH-16" target="F9XixA6PHF0n-Cnk4VVH-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -522,7 +522,7 @@
         </mxCell>
         <mxCell id="F9XixA6PHF0n-Cnk4VVH-11" value="数据支撑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="F9XixA6PHF0n-Cnk4VVH-10" vertex="1" connectable="0">
           <mxGeometry x="0.2934" y="-2" relative="1" as="geometry">
-            <mxPoint x="-688" y="-13" as="offset" />
+            <mxPoint x="-666" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F9XixA6PHF0n-Cnk4VVH-12" value="佣金管理" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
@@ -568,16 +568,16 @@
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-13" value="动作" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#69d100;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-15" value="接口及流程" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#12aab5;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-16" value="功能模块" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1520" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-18" value="&lt;h1&gt;图表中具体色块具体含义&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;overflow=hidden;rounded=0;whiteSpace=wrap;fontStyle=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="190" width="415" height="60" as="geometry" />
+          <mxGeometry x="1215" y="280" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4xCB6BG1yG3UuAQZe35u-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1185" y="-810" width="460" height="170" as="geometry" />
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TGgGYiroI9bOv1ZMPmA9" name="数据看板流程图">
-    <mxGraphModel dx="1687" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -753,6 +753,14 @@
         <mxCell id="DCwIFIg6uoRcDIzZUWZK-1" value="销售订单" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="760" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vnqvQVizxQxEMr7FZ8pq" name="数据库ER">
+    <mxGraphModel dx="1434" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="125" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
