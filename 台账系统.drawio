@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T06:10:06.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3D-_w4vOsc9Z6lB4YcTn" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T06:12:47.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3LyC9u9G9G-A8W-htJ0m" version="24.1.0" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1509" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,17 +188,11 @@
         <mxCell id="np8tpw6NEgNjQaXLkoZM-260" value="供应商（业务员）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="218" y="427" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-264" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.客户-收入是否需要合同、发票。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.从药厂购药的业务逻辑，是否会记录。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加期初余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的结余（余额 + 收入 - 支出-内部流转）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.发票和每笔收支是否为一对多关系。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="402" width="240" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-265" value="&lt;p style=&quot;text-align: left;&quot;&gt;1.客户-收入为个体户服务费。&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;2.客户-支出为购买产品。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="478" y="257" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-267" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;回答&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.需要。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.否。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加初始余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的（余额 + 收入 - 支出）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.应付登记去掉多余字段。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增功能&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.收支明细不可以修改删除。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.新增增加二次确认。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="95" width="240" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-268" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.账户中具体管理的类型是什么（公司公户、私户、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;个体户&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;公司公户是否需要管理？&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;药厂打过来的培训费到哪个账户，是否存在公司公户参与？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.发票和每笔收入是否存在一对多的关系？&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.应付登记具体需要哪些字段&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="825" y="99" width="296" height="280" as="geometry" />
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-268" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;1.合同和发票中间是否需要增加订单环节？&lt;/p&gt;&lt;p&gt;2.个体工商户和个体工商户之间会不会往来，私户或者法人户会不会给个体反向打钱？&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="825" y="99" width="245" height="280" as="geometry" />
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-270" value="内部流转" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="741.5" y="433" width="240" height="30" as="geometry" />
@@ -240,6 +234,9 @@
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-288" value="个体户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="738.5" y="504" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-296" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;描述&lt;/h1&gt;&lt;p&gt;1.账户中具体管理的类型为：&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;个体户：对公户&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;法人户：个体户-法人户&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;私户：普通员工私户&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;2.公司公布不需要管理，药厂打过来的培训费到个体户&lt;/p&gt;&lt;p&gt;3.一个合同对应多个发票，每个发票对应多笔收支。&lt;/p&gt;&lt;p&gt;4.应付登记：去掉数量、单价、产品和规格。&lt;/p&gt;&lt;p&gt;5.私户和私户之间存在互相流转。&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="413" width="296" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
