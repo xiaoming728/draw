@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T03:26:37.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Da6Bg2ruW2j1o-ris5Al" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T06:10:06.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3D-_w4vOsc9Z6lB4YcTn" version="24.1.0" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1347" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-269" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="413" width="369" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-258" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="8" y="417" width="640" height="280" as="geometry" />
         </mxCell>
@@ -162,22 +165,10 @@
           <mxGeometry x="528" y="537" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-234" value="账户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="688" y="137" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-241" target="np8tpw6NEgNjQaXLkoZM-244">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="688" y="177" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-241" value="个体户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="688" y="297" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-244" target="np8tpw6NEgNjQaXLkoZM-234">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-244" target="np8tpw6NEgNjQaXLkoZM-234">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-244" value="内部流转" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="688" y="217" width="70" height="40" as="geometry" />
+          <mxGeometry x="688" y="257" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-249" target="np8tpw6NEgNjQaXLkoZM-230">
           <mxGeometry relative="1" as="geometry" />
@@ -197,14 +188,58 @@
         <mxCell id="np8tpw6NEgNjQaXLkoZM-260" value="供应商（业务员）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="218" y="427" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-264" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.客户-收入是否需要合同、发票。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.药厂购药的业务逻辑，是否会记录。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加初始余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的（余额 + 收入 - 支出）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.发票和每笔收支是否为一对多关系。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="667" y="417" width="240" height="280" as="geometry" />
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-264" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.客户-收入是否需要合同、发票。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.从药厂购药的业务逻辑，是否会记录。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加期初余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的结余（余额 + 收入 - 支出-内部流转）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.发票和每笔收支是否为一对多关系。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="402" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="np8tpw6NEgNjQaXLkoZM-265" value="&lt;p style=&quot;text-align: left;&quot;&gt;1.客户-收入为个体户服务费。&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;2.客户-支出为购买产品。&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="478" y="257" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="np8tpw6NEgNjQaXLkoZM-267" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;回答&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.客户-收入是否需要合同、发票。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.药厂购药的业务逻辑，是否会记录。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加初始余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的（余额 + 收入 - 支出）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.发票和每笔收支是否为一对多关系。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="414" width="240" height="280" as="geometry" />
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-267" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;回答&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.需要。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.否。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.账户增加初始余额。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.期初 = 开始时间前的（余额 + 收入 - 支出）&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.应付登记去掉多余字段。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新增功能&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.收支明细不可以修改删除。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.新增增加二次确认。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;暂时不做&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.绩效发放记录与供应商支出关联&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="95" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-268" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;问题&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.账户中具体管理的类型是什么（公司公户、私户、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;个体户&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;公司公户是否需要管理？&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;药厂打过来的培训费到哪个账户，是否存在公司公户参与？&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.发票和每笔收入是否存在一对多的关系？&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.应付登记具体需要哪些字段&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="825" y="99" width="296" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-270" value="内部流转" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="741.5" y="433" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-271" target="np8tpw6NEgNjQaXLkoZM-281">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-271" target="np8tpw6NEgNjQaXLkoZM-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-271" target="np8tpw6NEgNjQaXLkoZM-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-271" value="个体户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="782" y="477" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-272" target="np8tpw6NEgNjQaXLkoZM-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-272" value="私户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="738.5" y="621" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-273" target="np8tpw6NEgNjQaXLkoZM-281">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882.5" y="611" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-273" target="np8tpw6NEgNjQaXLkoZM-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-273" value="法人户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="782" y="593" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-281" value="区域经理" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="593" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="np8tpw6NEgNjQaXLkoZM-288" target="np8tpw6NEgNjQaXLkoZM-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np8tpw6NEgNjQaXLkoZM-288" value="个体户" style="whiteSpace=wrap;fillColor=#2f5b7c;strokeColor=none;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="738.5" y="504" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
