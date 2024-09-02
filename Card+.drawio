@@ -147,7 +147,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ReRnERA1WX-LX3gC_H6o-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="144" y="40" width="976" height="1770" as="geometry" />
+          <mxGeometry x="40" y="40" width="1080" height="1770" as="geometry" />
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="ReRnERA1WX-LX3gC_H6o-7" target="ReRnERA1WX-LX3gC_H6o-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -179,11 +179,11 @@
         <mxCell id="ReRnERA1WX-LX3gC_H6o-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ReRnERA1WX-LX3gC_H6o-7" target="ReRnERA1WX-LX3gC_H6o-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I7fNo4hVMhot4cBxd3c3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReRnERA1WX-LX3gC_H6o-7" target="ReRnERA1WX-LX3gC_H6o-60">
+        <mxCell id="I7fNo4hVMhot4cBxd3c3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ReRnERA1WX-LX3gC_H6o-7" target="ReRnERA1WX-LX3gC_H6o-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理员&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-14" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;首页&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="680" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-38" value="后台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-39" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收藏系列管理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1640" width="120" height="60" as="geometry" />
@@ -325,6 +325,15 @@
         </mxCell>
         <mxCell id="ReRnERA1WX-LX3gC_H6o-87" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;轮播图管理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#0066CC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99E6D9rUhjB2jPDF8Apg-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;原有功能&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99E6D9rUhjB2jPDF8Apg-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;应有功能&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#999999;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99E6D9rUhjB2jPDF8Apg-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;未做功能&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#0066CC;strokeColor=#0066CC;strokeWidth=2;fontFamily=Helvetica;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
