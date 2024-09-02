@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="App-User">
-    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lbk-sbzEt-itssLylEFm-227" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="144" y="40" width="880" height="1040" as="geometry" />
+          <mxGeometry x="-30" y="30" width="1066" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="Lbk-sbzEt-itssLylEFm-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -25,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lbk-sbzEt-itssLylEFm-144" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="184" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbk-sbzEt-itssLylEFm-148" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;寄卡代售&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="664" y="879" width="120" height="60" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry x="864" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbk-sbzEt-itssLylEFm-228" value="App" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="184" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lbk-sbzEt-itssLylEFm-229" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;在库取回&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="664" y="480" width="120" height="60" as="geometry" />
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="m-AQnEtf5qHfbFKYxrt7-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="800" y="879" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oxYsFZ84ojNGdS8699ef-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;原有功能&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oxYsFZ84ojNGdS8699ef-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;应有功能&lt;/span&gt;&lt;/font&gt;" style="rounded=1;fillColor=#999999;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
