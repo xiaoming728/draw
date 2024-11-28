@@ -125,7 +125,7 @@
         <mxCell id="oU2qN-bhZ7y0oxD8n08e-5" value="广州医" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oU2qN-bhZ7y0oxD8n08e-18" value="&lt;span&gt;大参林：进货 95，销售 50，退货 10，调拨 9，总库存= 95-50-10-9 = 26&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="oU2qN-bhZ7y0oxD8n08e-18" value="&lt;span&gt;大参林：进货 95，销售 50，退货 10，调拨 9，总库存= 95-50+10-9 = 46&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="590" height="30" as="geometry" />
         </mxCell>
       </root>
