@@ -71,7 +71,7 @@
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yj-UceJBn9ZWJG6sJz91-241" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="390" height="640" as="geometry" />
+          <mxGeometry x="320" y="40" width="400" height="640" as="geometry" />
         </mxCell>
         <mxCell id="Yj-UceJBn9ZWJG6sJz91-243" value="课程状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="595" y="80" width="85" height="30" as="geometry" />
