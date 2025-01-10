@@ -29,10 +29,10 @@
           <mxGeometry x="200" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="me0bkUS0NusMc4ySYS9u-229" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;每次同步最新一次的全量包&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;和之后的增量包&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="265" width="360" height="30" as="geometry" />
+          <mxGeometry x="440" y="295" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="me0bkUS0NusMc4ySYS9u-231" value="每次根据数据变更&lt;div&gt;、定时&lt;/div&gt;&lt;div&gt;、&lt;/div&gt;&lt;div&gt;手动&lt;/div&gt;&lt;div&gt;等方式&lt;/div&gt;&lt;div&gt;打&lt;/div&gt;&lt;div&gt;增量包&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="35" width="30" height="370" as="geometry" />
+          <mxGeometry x="160" y="35" width="30" height="435" as="geometry" />
         </mxCell>
         <mxCell id="me0bkUS0NusMc4ySYS9u-233" value="手动打全量包" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="120" y="35" width="20" height="370" as="geometry" />
