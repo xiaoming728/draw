@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5" pages="2">
-  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="分成关系">
     <mxGraphModel dx="763" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -69,7 +69,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Rrq06PqHQv3VmdDRbYv7" name="第 2 页">
+  <diagram id="Rrq06PqHQv3VmdDRbYv7" name="分成逻辑">
     <mxGraphModel dx="795" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
