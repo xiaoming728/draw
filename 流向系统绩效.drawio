@@ -131,8 +131,11 @@
         <mxCell id="9wrXt-n-0RyXMcykCqxi-25" value="分成 10 积分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="310" y="299.9966666666666" as="geometry" />
         </mxCell>
-        <mxCell id="9wrXt-n-0RyXMcykCqxi-32" value="按照百分比分成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="416" width="150" height="30" as="geometry" />
+        <mxCell id="9wrXt-n-0RyXMcykCqxi-32" value="按照百分比分成" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wrXt-n-0RyXMcykCqxi-33" value="绩效积分= 销售积分-签到积分-培训积分" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="414" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
