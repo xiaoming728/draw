@@ -224,7 +224,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sk3n39gW-ZADNCpTTcPr-15" value="3.广州医&lt;div&gt;（一级）&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="sk3n39gW-ZADNCpTTcPr-15" value="3.上药&lt;div&gt;（一级）&lt;/div&gt;" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=15;plain-purple;strokeColor=none;fillColor=#2f5b7c;gradientColor=none;spacing=6;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sk3n39gW-ZADNCpTTcPr-16" value="&lt;span&gt;大参林：进货 95，销售 50，退货 2，调拨 11 ，总库存=&amp;nbsp;&lt;/span&gt;95-50+2+11 = 58" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
